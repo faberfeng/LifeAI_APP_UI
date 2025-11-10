@@ -13,6 +13,18 @@
 			}
 		},
 		{
+			"path": "pages/chat/index",
+			"style": {
+				"navigationBarTitleText": "Ai对话"
+			}
+		},
+		{
+			"path": "pages/kb/index",
+			"style": {
+				"navigationBarTitleText": "知识库"
+			}
+		},
+		{
 			"path": "pages/mine/index",
 			"style": {
 				"navigationBarTitleText": "我的"
@@ -25,9 +37,19 @@
 		"borderStyle": "white",
 		"backgroundColor": "#ffffff",
 		"list": [
-			{//首页
+			{
+				//首页
 				"pagePath": "pages/index/index"
-			}, {
+			}, 
+			{
+				//Ai对话
+				"pagePath": "pages/chat/index"
+			},
+			{
+				//知识库
+				"pagePath": "pages/kb/index"
+			},
+			{
 				//我的
 				"pagePath": "pages/mine/index"
 			}
