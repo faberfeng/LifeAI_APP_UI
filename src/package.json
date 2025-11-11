@@ -1,0 +1,27 @@
+{
+    "id": "uve-ai-chat",
+    "name": "AI聊天框、AI对话框",
+    "displayName": "AI聊天框、AI对话框",
+    "version": "1.0.2",
+    "description": "uniapp***ue3版的AI聊天框",
+    "keywords": [
+        "AI",
+        "vue3",
+        "markdown"
+    ],
+    "dcloudext": {
+        "type": "component-vue",
+        "sale": {
+            "regular": {
+                "price": "0.00"
+            },
+            "sourcecode": {
+                "price": "0.00"
+            }
+        }
+    },
+    "uni_modules": {
+        "dependencies": [],
+        "encrypt": []
+    }
+}

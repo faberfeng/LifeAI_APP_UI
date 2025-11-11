@@ -52,6 +52,7 @@
     "@dcloudio/uni-quickapp-webview": "3.0.0-4020920240930001",
     "axios": "^1.7.7",
     "echarts": "^5.5.1",
+    "highlight.js": "^11.11.1",
     "pinia": "^2.2.6",
     "sass": "1.63.2",
     "sass-loader": "10.4.1",
